@@ -7,6 +7,6 @@ function param(p){
 
 var nombre = param('--nombre');
 var edad = param('--edad');
-console.log(`Hola ${nombre}, tienes ${edad} años.`);
+console.log(`Hola ${nombre}, y tienes ${edad} años.`);
 // param('--nombre');
 //console.log(param('--nombre'));
