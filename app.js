@@ -3,7 +3,8 @@ var nombre;
 
 var preguntas = ['¿Cuál es tu nombre?\n',
                 'Cuantos años tienes?\n',
-                'Lenguaje de programación favorito?\n'];
+                'Lenguaje de programación favorito?\n',
+                'Cual es tu carro favorito?\n'];
 
 var respuestas = [];
 
