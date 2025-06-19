@@ -1,4 +1,4 @@
- const persona = require('./libs/persona');
+ const persona = require('../libs/persona');
 
  let pablo = new persona('Pablo');
 
