@@ -5,7 +5,7 @@ const y = 15;
 
 exec('./script.sh ' + x + ' ' + y, (err, stdout) => {
     if (err) {
-        throw(err);
+        throw err;
     }
     console.log('Comando ejecutado 2 con éxito:');
     console.log(stdout);
